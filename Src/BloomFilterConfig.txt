@@ -1,0 +1,2 @@
+size=256
+NumberOfHashFunctions=2  
