@@ -1,0 +1,13 @@
+add absolute
+add abbreviate
+add abode
+add bagel
+add bahamas
+test absolute
+test bahamas
+test abra
+test shri
+test anuj
+test cultery
+test badminton
+reset
